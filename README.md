@@ -1,5 +1,5 @@
-# SEJA BEM VINDO(a)
-# Mobile Software Enginner
+# WELCOME / SEJA BEM VINDO(a)
+# SOFTWARE ENGINNER
    
   ##
  
